@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 music-recommender.joblib
 vgsales.csv
+*.pickle
