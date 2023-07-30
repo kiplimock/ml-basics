@@ -2,3 +2,5 @@
 music-recommender.joblib
 vgsales.csv
 *.pickle
+/digit-recognizer
+.gitignore
